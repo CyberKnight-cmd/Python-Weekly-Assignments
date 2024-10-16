@@ -1,5 +1,5 @@
 term = int(input("Enter the term : "))
-pointer = -9
+pointer = 110
 for i in range(term):
-    pointer+=4
+    pointer-=10
     print(pointer, end=' ')

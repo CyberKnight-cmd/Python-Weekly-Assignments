@@ -1,3 +1,3 @@
-l =['Arya', 'Avirupa', 'Jeet', 'Rajnandini']
-sortedList = sorted(set(l), key= len,reverse=True)
-print(sortedList[-1])
+# Harmonic Number Series
+term = int(input("Enter the term :")) + 1
+print(" ".join([f"1/{i}" for i in range(1,term)]))

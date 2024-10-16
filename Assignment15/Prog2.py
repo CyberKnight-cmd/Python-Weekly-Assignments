@@ -4,4 +4,4 @@ def pell(n) :
     return (2 * pell(n - 1) + pell(n - 2))
 
 n = int(input("Enter n = "))
-print(" ".join([str(pell(i)) for i in range(0,n+1)]))
+print(" ".join([str(pell(i)) for i in range(n+1)]))
