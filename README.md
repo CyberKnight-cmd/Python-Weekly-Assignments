@@ -16,13 +16,75 @@ This repository is aimed at students and Python enthusiasts who are looking to p
 
 ## Weekly Assignments
 
-Each week's assignments are stored in their respective directories:
+### Week 1
+- **prog1.py**: `./Week1/prog1.py`
+- **prog2.py**: `./Week1/prog2.py`
+- **prog3.py**: `./Week1/prog3.py`
+- **prog4.py**: `./Week1/prog4.py`
+- **prog5.py**: `./Week1/prog5.py`
 
-- [Week 1](./Week1)
-- [Week 2](./Week2)
-- [Week 3](./Week3)
-- ...
-- [Week 10](./Week10)
+### Week 2
+- **prog1.py**: `./Week2/prog1.py`
+- **prog2.py**: `./Week2/prog2.py`
+- **prog3.py**: `./Week2/prog3.py`
+- **prog4.py**: `./Week2/prog4.py`
+- **prog5.py**: `./Week2/prog5.py`
+
+### Week 3
+- **prog1.py**: `./Week3/prog1.py`
+- **prog2.py**: `./Week3/prog2.py`
+- **prog3.py**: `./Week3/prog3.py`
+- **prog4.py**: `./Week3/prog4.py`
+- **prog5.py**: `./Week3/prog5.py`
+
+### Week 4
+- **prog1.py**: `./Week4/prog1.py`
+- **prog2.py**: `./Week4/prog2.py`
+- **prog3.py**: `./Week4/prog3.py`
+- **prog4.py**: `./Week4/prog4.py`
+- **prog5.py**: `./Week4/prog5.py`
+
+### Week 5
+- **prog1.py**: `./Week5/prog1.py`
+- **prog2.py**: `./Week5/prog2.py`
+- **prog3.py**: `./Week5/prog3.py`
+- **prog4.py**: `./Week5/prog4.py`
+- **prog5.py**: `./Week5/prog5.py`
+
+### Week 6
+- **prog1.py**: `./Week6/prog1.py`
+- **prog2.py**: `./Week6/prog2.py`
+- **prog3.py**: `./Week6/prog3.py`
+- **prog4.py**: `./Week6/prog4.py`
+- **prog5.py**: `./Week6/prog5.py`
+
+### Week 7
+- **prog1.py**: `./Week7/prog1.py`
+- **prog2.py**: `./Week7/prog2.py`
+- **prog3.py**: `./Week7/prog3.py`
+- **prog4.py**: `./Week7/prog4.py`
+- **prog5.py**: `./Week7/prog5.py`
+
+### Week 8
+- **prog1.py**: `./Week8/prog1.py`
+- **prog2.py**: `./Week8/prog2.py`
+- **prog3.py**: `./Week8/prog3.py`
+- **prog4.py**: `./Week8/prog4.py`
+- **prog5.py**: `./Week8/prog5.py`
+
+### Week 9
+- **prog1.py**: `./Week9/prog1.py`
+- **prog2.py**: `./Week9/prog2.py`
+- **prog3.py**: `./Week9/prog3.py`
+- **prog4.py**: `./Week9/prog4.py`
+- **prog5.py**: `./Week9/prog5.py`
+
+### Week 10
+- **prog1.py**: `./Week10/prog1.py`
+- **prog2.py**: `./Week10/prog2.py`
+- **prog3.py**: `./Week10/prog3.py`
+- **prog4.py**: `./Week10/prog4.py`
+- **prog5.py**: `./Week10/prog5.py`
 
 Each week contains a README file with detailed descriptions of the assignments, including problem statements, input and output formats, and example scenarios.
 
