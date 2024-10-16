@@ -1,4 +1,3 @@
-
 # Python Weekly Assignments
 
 Welcome to the **Python Weekly Assignments** repository! This repository contains a collection of weekly Python assignments, each designed to enhance your programming skills and understanding of various Python concepts. The assignments are categorized by week, with each week featuring five unique programming challenges.
@@ -243,6 +242,55 @@ This repository is aimed at students and Python enthusiasts who are looking to p
 - [Prog3.py](Assignment33/Prog3.py)
 - [Prog4.py](Assignment33/Prog4.py)
 - [Prog5.py](Assignment33/Prog5.py)
+
+### Assignment - 34
+- [Prog1.py](Assignment34/Prog1.py)
+- [Prog2.py](Assignment34/Prog2.py)
+- [Prog3.py](Assignment34/Prog3.py)
+- [Prog4.py](Assignment34/Prog4.py)
+- [Prog5.py](Assignment34/Prog5.py)
+
+### Assignment - 35
+- [Prog1.py](Assignment35/Prog1.py)
+- [Prog2.py](Assignment35/Prog2.py)
+- [Prog3.py](Assignment35/Prog3.py)
+- [Prog4.py](Assignment35/Prog4.py)
+- [Prog5.py](Assignment35/Prog5.py)
+
+### Assignment - 36
+- [Prog1.py](Assignment36/Prog1.py)
+- [Prog2.py](Assignment36/Prog2.py)
+- [Prog3.py](Assignment36/Prog3.py)
+- [Prog4.py](Assignment36/Prog4.py)
+- [Prog5.py](Assignment36/Prog5.py)
+
+### Assignment - 37
+- [Prog1.py](Assignment37/Prog1.py)
+- [Prog2.py](Assignment37/Prog2.py)
+- [Prog3.py](Assignment37/Prog3.py)
+- [Prog4.py](Assignment37/Prog4.py)
+- [Prog5.py](Assignment37/Prog5.py)
+
+### Assignment - 38
+- [Prog1.py](Assignment38/Prog1.py)
+- [Prog2.py](Assignment38/Prog2.py)
+- [Prog3.py](Assignment38/Prog3.py)
+- [Prog4.py](Assignment38/Prog4.py)
+- [Prog5.py](Assignment38/Prog5.py)
+
+### Assignment - 39
+- [Prog1.py](Assignment39/Prog1.py)
+- [Prog2.py](Assignment39/Prog2.py)
+- [Prog3.py](Assignment39/Prog3.py)
+- [Prog4.py](Assignment39/Prog4.py)
+- [Prog5.py](Assignment39/Prog5.py)
+
+### Assignment - 40
+- [Prog1.py](Assignment40/Prog1.py)
+- [Prog2.py](Assignment40/Prog2.py)
+- [Prog3.py](Assignment40/Prog3.py)
+- [Prog4.py](Assignment40/Prog4.py)
+- [Prog5.py](Assignment40/Prog5.py)
  
 
 Each assignment contains a PDF file that states the problem in a more detailed manner. Make sure to refer to it in case of any confusion.

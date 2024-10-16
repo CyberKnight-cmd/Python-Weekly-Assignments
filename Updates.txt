@@ -1,0 +1,17 @@
+Leaving this, so that I can start developing more once my exam ends. 
+
+Things that are done : 
+    - Automatic Template Generation
+    - Automatic File Mapping in README
+
+Things that are missing : 
+    - The README.md file has some important information that is getting deleted. We want to update the file, not replace it. Hence the READMEGenerator.py needs to be fixed to update the README file not replace texts.
+
+Things that I think should be incorporated :
+    - A PDF to READMEGenerator to convert the Questions directly to a text file that will locate subfolders and insert the README files there.
+    - A file mapper that shortens the questions and maps it in the main README file.
+    - GPT integration : Passing the questions in GPT to solve the questions automatically.
+    
+What it might do ? 
+    - Makes an automatic python assignment solver
+    - Solves and pushes the code automatically to GitHub with proper indexing
