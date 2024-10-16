@@ -1,7 +1,7 @@
 a,b,c = map(float,input("Enter a number : ").split(','))
-if(a<b and a<c):
-    print(a,"is the smallest")
-if(b<a and b<c):
-    print(b,"is the smallest")
+if (c>a<b):
+    print(f"{a} is smallest.")
+elif (a>b<c):
+    print(f"{b} is smallest.")
 else:
-    print(c,"is the smallest")
+    print(f"{c} is smallest.")
