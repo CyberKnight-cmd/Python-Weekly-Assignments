@@ -71,4 +71,4 @@ while True:
 print("Do you want to push the changes to the repository ?")  
 choice = input("Enter 'y' for Yes: ").strip().lower()
 if choice or choice[0] == 'y':
-    os.system('git push assignment main')
+    os.system('git push origin main')
