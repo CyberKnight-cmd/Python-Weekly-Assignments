@@ -8,4 +8,4 @@ N = int(input("Enter N = "))
 series = [-1]
 for i in range(N-1):
     series.append(series[i]+3*(2*i + 1))
-print(series)
+print(series," = ",sum(series))

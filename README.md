@@ -135,19 +135,31 @@ This repository is aimed at students and Python enthusiasts who are looking to p
 - [2 1 3 4 7 11 18 29 47 76........(Lucas Numbers Series)](Assignment15/Prog5.py)
 - [Questions](Assignment15/PythonWeeklyAssignment15.pdf)
 
-### Assignment - 16
-- [Prog1.py](Assignment16/Prog1.py)
-- [Prog2.py](Assignment16/Prog2.py)
-- [Prog3.py](Assignment16/Prog3.py)
-- [Prog4.py](Assignment16/Prog4.py)
-- [Prog5.py](Assignment16/Prog5.py)
+### Assignment - 16 (Pattern Discovery in Sequences)
+- [To generate the series: 2, 15, 41, 80, 132, 197…](Assignment16/Prog1.py)
+- [To generate the series: 1, 3, 4, 8, 15, 27, 50…](Assignment16/Prog2.py)
+- [To generate the series: 1, 9, 17, 33, 49, 73, 97…](Assignment16/Prog3.py)
+- [To generate the alternating series: 2, 1, 4, 3, 6, 5…](Assignment16/Prog4.py)
+- [To generate the series: 5, 12, 21, 32, 45…](Assignment16/Prog5.py)
 - [Questions](Assignment16/PythonWeeklyAssignment16.pdf)
 
-### Assignment - 17
+### Assignment - 17 (Summation of Series)
+- [Summation of the series: -1 + 2 + 11 + 26 + 47…](Assignment17/Prog1.py)
+- [Summation of the series: 1 + 2 + 2 + 3 + 3 + 3 + 4 + 4 + 4 + 4…](Assignment17/Prog2.py)
+- [Series involving powers: 1^(2^3) + 2^(3^4) + 3^(4^5) + 4^(5^6)…](Assignment17/Prog3.py)
+- [Fractional series: 1 + 1/2^2 + 1/3^3 + 1/4^4…](Assignment17/Prog4.py)
+- [Factorial-based series: 1/1! + 2/2! + 3/3! + 4/4!…](Assignment17/Prog5.py)
 - [Questions](Assignment17/PythonWeeklyAssignment17.pdf)
 
 ### Assignment - 18
+- ### Assignment - 18 (Cumulative and Exponential Series)
+- [Nested summation series: 1 + (1+4) + (1+4+4^2) + (1+4+4^2+4^3)…](Assignment18/Prog1.py)
+- [Repeating digit series: 3 + 33 + 333 + 3333…](Assignment18/Prog2.py)
+- [Difference of cubes: (3^3 – 2^3) + (5^3 – 4^3) + (7^3 – 6^3)…](Assignment18/Prog3.py)
+- [Summation of squares: 1^2 + (1^2+2^2) + (1^2+2^2+3^2)…](Assignment18/Prog4.py)
+- [Fractional series: 1/(1×3) + 1/(3×5) + 1/(5×7)…](Assignment18/Prog5.py)
 - [Questions](Assignment18/PythonWeeklyAssignment18.pdf)
+
 
 ### Assignment - 19
 - [Questions](Assignment19/PythonWeeklyAssignment19.pdf)
@@ -292,7 +304,70 @@ This repository is aimed at students and Python enthusiasts who are looking to p
 - [Prog4.py](Assignment40/Prog4.py)
 - [Prog5.py](Assignment40/Prog5.py)
  
+### Assignment - 41
+- [Prog1.py](Assignment41/Prog1.py)
+- [Prog2.py](Assignment41/Prog2.py)
+- [Prog3.py](Assignment41/Prog3.py)
+- [Prog4.py](Assignment41/Prog4.py)
+- [Prog5.py](Assignment41/Prog5.py)
 
+### Assignment - 42
+- [Prog1.py](Assignment42/Prog1.py)
+- [Prog2.py](Assignment42/Prog2.py)
+- [Prog3.py](Assignment42/Prog3.py)
+- [Prog4.py](Assignment42/Prog4.py)
+- [Prog5.py](Assignment42/Prog5.py)
+
+### Assignment - 43
+- [Prog1.py](Assignment43/Prog1.py)
+- [Prog2.py](Assignment43/Prog2.py)
+- [Prog3.py](Assignment43/Prog3.py)
+- [Prog4.py](Assignment43/Prog4.py)
+- [Prog5.py](Assignment43/Prog5.py)
+
+### Assignment - 44
+- [Prog1.py](Assignment44/Prog1.py)
+- [Prog2.py](Assignment44/Prog2.py)
+- [Prog3.py](Assignment44/Prog3.py)
+- [Prog4.py](Assignment44/Prog4.py)
+- [Prog5.py](Assignment44/Prog5.py)
+
+### Assignment - 45
+- [Prog1.py](Assignment45/Prog1.py)
+- [Prog2.py](Assignment45/Prog2.py)
+- [Prog3.py](Assignment45/Prog3.py)
+- [Prog4.py](Assignment45/Prog4.py)
+- [Prog5.py](Assignment45/Prog5.py)
+
+### Assignment - 46
+- [Prog1.py](Assignment46/Prog1.py)
+- [Prog2.py](Assignment46/Prog2.py)
+- [Prog3.py](Assignment46/Prog3.py)
+- [Prog4.py](Assignment46/Prog4.py)
+- [Prog5.py](Assignment46/Prog5.py)
+
+### Assignment - 47
+- [Prog1.py](Assignment47/Prog1.py)
+- [Prog2.py](Assignment47/Prog2.py)
+- [Prog3.py](Assignment47/Prog3.py)
+- [Prog4.py](Assignment47/Prog4.py)
+- [Prog5.py](Assignment47/Prog5.py)
+
+### Assignment - 48
+- [Prog1.py](Assignment48/Prog1.py)
+- [Prog2.py](Assignment48/Prog2.py)
+- [Prog3.py](Assignment48/Prog3.py)
+- [Prog4.py](Assignment48/Prog4.py)
+- [Prog5.py](Assignment48/Prog5.py)
+
+### Assignment - 49
+- [Prog1.py](Assignment49/Prog1.py)
+- [Prog2.py](Assignment49/Prog2.py)
+- [Prog3.py](Assignment49/Prog3.py)
+- [Prog4.py](Assignment49/Prog4.py)
+- [Prog5.py](Assignment49/Prog5.py)
+
+ 
 Each assignment contains a PDF file that states the problem in a more detailed manner. Make sure to refer to it in case of any confusion.
 
 ## Getting Started
