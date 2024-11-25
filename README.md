@@ -161,7 +161,12 @@ This repository is aimed at students and Python enthusiasts who are looking to p
 - [Questions](Assignment18/PythonWeeklyAssignment18.pdf)
 
 
-### Assignment - 19
+### Assignment - 19 (Mixed Series Patterns)
+- [Fractional series: 0, 3/1, 8/3, 15/5…](Assignment19/Prog1.py)
+- [Progressive series: 3, 7, 13, 21, 31…](Assignment19/Prog2.py)
+- [Cubic growth series: 3, 20, 63, 144, 230…](Assignment19/Prog3.py)
+- [Quadratic series: 0, 5, 14, 27, 44…](Assignment19/Prog4.py)
+- [Mixed multiples series: 3, 6, 18, 24, 45, 54…](Assignment19/Prog5.py)
 - [Questions](Assignment19/PythonWeeklyAssignment19.pdf)
 
 ### Assignment - 20
