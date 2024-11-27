@@ -174,72 +174,95 @@ This repository is aimed at students and Python enthusiasts who are looking to p
 ### Assignment - 20
 - [Questions](Assignment20/PythonWeeklyAssignment20.pdf)
 
-### Assignment - 21
-- [Prog3.py](Assignment21/Prog3.py)
+
+### Assignment - 21 (Pattern Printing)
+- [Descending Star Pattern](Assignment21/Prog1.py)
+- [Centered Star Pattern](Assignment21/Prog2.py)
+- [Increasing Star Pattern](Assignment21/Prog3.py)
+- [Mixed Star Pattern](Assignment21/Prog4.py)
+- [Number Pattern](Assignment21/Prog5.py)
 - [Questions](Assignment21/PythonWeeklyAssignment21.pdf)
 
-### Assignment - 22
-- [Prog1.py](Assignment22/Prog1.py)
-- [Prog2.py](Assignment22/Prog2.py)
-- [Prog3.py](Assignment22/Prog3.py)
-- [Prog4.py](Assignment22/Prog4.py)
-- [Prog5.py](Assignment22/Prog5.py)
 
-### Assignment - 23
-- [Prog1.py](Assignment23/Prog1.py)
-- [Prog2.py](Assignment23/Prog2.py)
-- [Prog3.py](Assignment23/Prog3.py)
-- [Prog4.py](Assignment23/Prog4.py)
-- [Prog5.py](Assignment23/Prog5.py)
+### Assignment - 22 (Pattern Printing)
+- [Pattern 1 - Numbers in Increasing Order](Assignment22/Prog1.py)
+- [Pattern 2 - Numbers Decreasing in Rows](Assignment22/Prog2.py)
+- [Pattern 3 - Reverse Number Pyramid](Assignment22/Prog3.py)
+- [Pattern 4 - Inverted Numbers Pyramid](Assignment22/Prog4.py)
+- [Pattern 5 - Half-Diamond Shape with Numbers](Assignment22/Prog5.py)
+- [Questions](Assignment22/PythonWeeklyAssignment22.pdf)
 
-### Assignment - 24
-- [Prog1.py](Assignment24/Prog1.py)
-- [Prog2.py](Assignment24/Prog2.py)
-- [Prog3.py](Assignment24/Prog3.py)
-- [Prog4.py](Assignment24/Prog4.py)
-- [Prog5.py](Assignment24/Prog5.py)
 
-### Assignment - 25
-- [Prog1.py](Assignment25/Prog1.py)
-- [Prog2.py](Assignment25/Prog2.py)
-- [Prog3.py](Assignment25/Prog3.py)
-- [Prog4.py](Assignment25/Prog4.py)
-- [Prog5.py](Assignment25/Prog5.py)
+### Assignment - 23 (String Manipulations)
+- [Convert string to Uppercase](Assignment23/Prog1.py)
+- [Convert string to Lowercase](Assignment23/Prog2.py)
+- [Capitalize First Letter](Assignment23/Prog3.py)
+- [Capitalize First Letter of Each Word](Assignment23/Prog4.py)
+- [Count Occurrences of Substring](Assignment23/Prog5.py)
+- [Questions](Assignment23/PythonWeeklyAssignment23.pdf)
 
-### Assignment - 26
-- [Prog1.py](Assignment26/Prog1.py)
-- [Prog2.py](Assignment26/Prog2.py)
-- [Prog3.py](Assignment26/Prog3.py)
-- [Prog4.py](Assignment26/Prog4.py)
-- [Prog5.py](Assignment26/Prog5.py)
 
-### Assignment - 27
-- [Prog1.py](Assignment27/Prog1.py)
-- [Prog2.py](Assignment27/Prog2.py)
-- [Prog3.py](Assignment27/Prog3.py)
-- [Prog4.py](Assignment27/Prog4.py)
-- [Prog5.py](Assignment27/Prog5.py)
+### Assignment - 24 (String Operations)
+- [Find a Substring](Assignment24/Prog1.py)
+- [Replace a Substring](Assignment24/Prog2.py)
+- [Check if All Characters Are Alphabets](Assignment24/Prog3.py)
+- [Check if All Characters Are Digits](Assignment24/Prog4.py)
+- [Check if All Characters Are Alphanumeric](Assignment24/Prog5.py)
+- [Questions](Assignment24/PythonWeeklyAssignment24.pdf)
 
-### Assignment - 28
-- [Prog1.py](Assignment28/Prog1.py)
-- [Prog2.py](Assignment28/Prog2.py)
-- [Prog3.py](Assignment28/Prog3.py)
-- [Prog4.py](Assignment28/Prog4.py)
-- [Prog5.py](Assignment28/Prog5.py)
 
-### Assignment - 29
-- [Prog1.py](Assignment29/Prog1.py)
-- [Prog2.py](Assignment29/Prog2.py)
-- [Prog3.py](Assignment29/Prog3.py)
-- [Prog4.py](Assignment29/Prog4.py)
-- [Prog5.py](Assignment29/Prog5.py)
+### Assignment - 25 (Advanced String Handling)
+- [Split a String into a List of Words](Assignment25/Prog1.py)
+- [Join a List of Strings into a Single String](Assignment25/Prog2.py)
+- [Check if a String Starts with a Substring](Assignment25/Prog3.py)
+- [Check if a String Ends with a Substring](Assignment25/Prog4.py)
+- [Find the Position of the First Occurrence of a Substring](Assignment25/Prog5.py)
+- [Questions](Assignment25/PythonWeeklyAssignment25.pdf)
 
-### Assignment - 30
-- [Prog1.py](Assignment30/Prog1.py)
-- [Prog2.py](Assignment30/Prog2.py)
-- [Prog3.py](Assignment30/Prog3.py)
-- [Prog4.py](Assignment30/Prog4.py)
-- [Prog5.py](Assignment30/Prog5.py)
+
+### Assignment - 26 (String Manipulation)
+- [Remove All White Spaces from a String](Assignment26/Prog1.py)
+- [Reverse Each Word in a String](Assignment26/Prog2.py)
+- [Find the Length of the Longest Word in a String](Assignment26/Prog3.py)
+- [Find the Length of the Smallest Word in a String](Assignment26/Prog4.py)
+- [Find the First Non-Repeating Character in a String](Assignment26/Prog5.py)
+- [Questions](Assignment26/PythonWeeklyAssignment26.pdf)
+
+
+### Assignment - 27 (User-Defined Functions)
+- [Add Three Numbers Using a User-Defined Function](Assignment27/Prog1.py)
+- [Calculate Factorial Using a User-Defined Function](Assignment27/Prog2.py)
+- [Calculate a to the Power b Without Using pow()](Assignment27/Prog3.py)
+- [Sum Using User-Defined Function: 1+2+3+...Nth Term](Assignment27/Prog4.py)
+- [Sum Using User-Defined Function: 1+3+5+...Nth Term](Assignment27/Prog5.py)
+- [Questions](Assignment27/PythonWeeklyAssignment27.pdf)
+
+
+### Assignment - 28 (Series Using User-Defined Functions)
+- [Series: 1, 4, 9, 16, 25, 36...](Assignment28/Prog1.py)
+- [Series: 2, 4, 8, 16, 32, 64...](Assignment28/Prog2.py)
+- [Series: 1, 3, 7, 13, 21, 31...](Assignment28/Prog3.py)
+- [Series: 1, 2, 6, 24, 120, 720...](Assignment28/Prog4.py)
+- [Series: 3, 10, 29, 66, 127, 218...](Assignment28/Prog5.py)
+- [Questions](Assignment28/PythonWeeklyAssignment28.pdf)
+
+
+### Assignment - 29 (Number Analysis & Series Using User-Defined Functions)
+- [Check if a number is an Armstrong number](Assignment29/Prog1.py)
+- [Check if a number is a Krishnamurthy/Peterson/Strong number](Assignment29/Prog2.py)
+- [Check if a number is a palindrome](Assignment29/Prog3.py)
+- [Summation of series: 8, 88, 888, 8888... upto Nth term](Assignment29/Prog4.py)
+- [Generate Fibonacci series upto Nth term](Assignment29/Prog5.py)
+- [Questions](Assignment29/PythonWeeklyAssignment29.pdf)
+
+
+### Assignment - 30 (Recursion in Python)
+- [Summation of N natural numbers using recursion](Assignment30/Prog1.py)
+- [Calculate the factorial using recursion](Assignment30/Prog2.py)
+- [Calculate \(a^b\) using recursion](Assignment30/Prog3.py)
+- [Check if a number is Armstrong using recursion](Assignment30/Prog4.py)
+- [Generate first N Fibonacci numbers using recursion](Assignment30/Prog5.py)
+- [Questions](Assignment30/PythonWeeklyAssignment30.pdf)
 
 ### Assignment - 31
 - [Prog1.py](Assignment31/Prog1.py)
