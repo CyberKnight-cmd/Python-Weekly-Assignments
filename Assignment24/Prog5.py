@@ -1,5 +1,7 @@
 # Assignment24
 # Prog 5
-# Write your question here(in shortened form)
+# Write a Python program to check if all characters are Alphanumeric. 
 
 # Write your code here
+s = input("Enter a string : ")
+print(s.isalnum())
