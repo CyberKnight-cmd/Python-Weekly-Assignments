@@ -1,5 +1,8 @@
 # Assignment26
 # Prog 2
-# Write your question here(in shortened form)
+# Write a Python program to reverse each word in a string.
 
 # Write your code here
+
+s = [word[::-1] for word in input("Enter a string : ").split()]
+print(" ".join(s))
