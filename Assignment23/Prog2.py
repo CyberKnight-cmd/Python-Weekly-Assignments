@@ -1,5 +1,8 @@
 # Assignment23
 # Prog 2
-# Write your question here(in shortened form)
+# Write a Python program to convert your input string into lowercase. Input- Hello World, Output- hello world 
+
 
 # Write your code here
+s = input("Enter a string : ").lower()
+print(s)
