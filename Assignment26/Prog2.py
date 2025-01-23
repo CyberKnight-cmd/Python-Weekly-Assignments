@@ -5,4 +5,4 @@
 # Write your code here
 
 s = [word[::-1] for word in input("Enter a string : ").split()]
-print(" ".join(s))
+print("\n".join(s))
